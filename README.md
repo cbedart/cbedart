@@ -5,7 +5,7 @@
 
 - 🤝 Working with [Inserm U1286 INFINITE](https://lille-inflammation-research.org/en/)
 
-- 👨‍💻 All of my projects are available at [github.com/cbedart](github.com/cbedart)
+- 👨‍💻 All of my projects are available at [github.com/cbedart](https://github.com/cbedart)
 
 - 📫 You can reach me on **Linkedin**
 
